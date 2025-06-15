@@ -1,4 +1,4 @@
-# Hi there, I'm Adiseshan! An aspiring AI-Ml engineer with strong interest in full stack development👋
+# Hi there, I'm Adiseshan! An aspiring AI-MLengineer with strong interest in full stack development👋
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 ---
 ## 👨‍💻Work Experience
