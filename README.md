@@ -1,9 +1,10 @@
-# Hi there, I'm Adiseshan! 👋
+# Hi there, I'm Adiseshan! An aspiring AI-Ml engfineer with strong interest in full stack development👋
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
-
-**Software Engineer Intern @ ZingHR**  
-Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.
-
+---
+## 👨‍💻Work Experience
+- Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May2025-Present)
+  * Worked on LLMs, finetuned them. Built OCR model for scratch for claims.
+  * Built a frontend UI for them using Next.js and TypeScript to manage lots of users and their clients as well.
 ---
 
 ## 🚀 About Me
@@ -14,14 +15,6 @@ Crafting digital solutions by writing logical and robust code for smooth deploym
 
 ---
 
-## 🛠️ Top Skills
-
-- **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
-- **Next.js** | **TypeScript**
-- **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
-
----
-
 ## 🌟 Current Projects
 
 - 🎤 **Text-to-Audio Generator**  
@@ -29,6 +22,12 @@ Crafting digital solutions by writing logical and robust code for smooth deploym
 
 - 🔗 **Multimodal RAG Application**  
   Exploring the synergy of multiple data types and retrieval-augmented generation for smarter AI apps.
+
+## 🛠️ Top Skills
+
+- **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
+- **Next.js** | **TypeScript**
+- **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
 
 ---
 
