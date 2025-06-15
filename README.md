@@ -33,8 +33,7 @@
 
 ## 📫 Let’s Connect!
 
-<!-- Add your LinkedIn, Twitter, or other links here, e.g.: -->
-<!-- [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Portfolio](https://yourwebsite.com) -->
+<a href="https://www.linkedin.com/in/adiseshanramanan/">LinkedIn</a>
 
 ---
 
