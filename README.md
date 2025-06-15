@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Adiseshan! 👋
 
-<!--
-**adiseshan1505/adiseshan1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer Intern @ ZingHR**  
+Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧑‍💻 Passionate developer and avid learner
+- 🥁 Percussionist & vocalist
+- 🤖 Building with the latest in AI, LLMs, and web tech
+
+---
+
+## 🛠️ Top Skills
+
+- **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
+- **Next.js** | **TypeScript**
+- **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
+
+---
+
+## 🌟 Current Projects
+
+- 🎤 **Text-to-Audio Generator**  
+  Training on the most recent data (2025) to make conversations lively—interact on any topic you like!
+
+- 🔗 **Multimodal RAG Application**  
+  Exploring the synergy of multiple data types and retrieval-augmented generation for smarter AI apps.
+
+---
+
+## 🎶 Hobbies
+
+- Percussionist & vocalist
+- Exploring new technologies
+- Always learning, always building
+
+---
+
+## 📫 Let’s Connect!
+
+<!-- Add your LinkedIn, Twitter, or other links here, e.g.: -->
+<!-- [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Portfolio](https://yourwebsite.com) -->
+
+---
+
+> “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
