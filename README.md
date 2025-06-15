@@ -3,7 +3,7 @@
 ---
 ## 👨‍💻Work Experience
 - Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May2025-Present)
-  * Worked on LLMs, finetuned them. Built OCR model for scratch for claims.
+  * Worked on LLMs, finetuned them. Built OCR model from scratch for claims.
   * Built a frontend UI for them using Next.js and TypeScript to manage lots of users and their clients as well.
 ---
 
