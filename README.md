@@ -1,4 +1,4 @@
-# Hi there, I'm Adiseshan! An aspiring AI-ML engineer with strong interest in full stack development👋
+# Hi there, I'm Adiseshan! An aspiring AI-ML engineer with strong interest in full stack development (webs and mobiles)👋
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 ---
 ## 👨‍💻Work Experience
@@ -10,15 +10,15 @@
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate developer and avid learner
-- 🧑‍💻 Python(LLMs, ML) and JS junkie!!! :))
+- 🧑‍💻 Python(LLMs, ML) and JS most used!!!
 - 🤖 Building with the latest in AI, LLMs(open source that run locally), and web tech
 
 ---
 
 ## 🌟 Current Projects
 
-- 🎤 **Text-to-Audio Generator**  
-  Training on the most recent data (2025) to make conversations lively—interact on any topic you like!
+- 🍔🌯 **Full Stack React-Native food recipe App**  
+  Building a full stack react native & expo applicaiton related to food recipes based on what you like!
 
 - 🔗 **Multimodal RAG Application**  
   Exploring the synergy of multiple data types and retrieval-augmented generation for smarter AI apps.
