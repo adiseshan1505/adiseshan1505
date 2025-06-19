@@ -2,7 +2,7 @@
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 ---
 ## 👨‍💻Work Experience
-- Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May2025-Present)
+- Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May 2025-June 2025)
   * Worked on LLMs, finetuned them. Built OCR model from scratch for claims.
   * Built a frontend UI for them using Next.js and TypeScript to manage lots of users and their clients as well.
 ---
