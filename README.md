@@ -11,15 +11,16 @@
 
 - 🧑‍💻 Passionate developer and avid learner
 - 🧑‍💻 Python(LLMs, ML) and JS most used!!!
+- 🚀 Currently learning Flutter
+- 👍 Mastering Full Stack Dev
 - 🤖 Building with the latest in AI, LLMs(open source that run locally), and web tech
 
 ---
 
 ## 🌟 Current Projects
 
-- 🍔🌯 **Full Stack React-Native food recipe App**  
-  Building a full stack react native & expo applicaiton related to food recipes based on what you like!
-
+-  🚀**Flutter App**  
+  Building a flutter cross platform app using firebase at the backend.
 - 🔗 **Multimodal RAG Application**  
   Exploring the synergy of multiple data types and retrieval-augmented generation for smarter AI apps.
 
