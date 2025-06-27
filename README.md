@@ -24,6 +24,12 @@
 - 🔗 **Multimodal RAG Application**  
   Exploring the synergy of multiple data types and retrieval-augmented generation for smarter AI apps.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiseshan1505&show_icons=true&theme=radical" alt="adiseshan1505's GitHub stats" />
+</p>
+
 ## 🛠️ Top Skills
 
 - **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
