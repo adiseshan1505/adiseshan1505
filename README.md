@@ -37,11 +37,11 @@
 </p>
 
 
-## 🛠️ Top Skills
+## 💻 Top Languages
 
-- **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
-- **Next.js** | **TypeScript**
-- **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshan1505&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
