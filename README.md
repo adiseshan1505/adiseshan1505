@@ -32,14 +32,19 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=adiseshan1505&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
+## 🛠️ Top Skills
 
+- **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
+- **Next.js** | **TypeScript**
+- **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
+- 
 ## 💻 Top Languages
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshan1505&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
