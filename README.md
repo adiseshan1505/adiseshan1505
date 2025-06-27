@@ -30,6 +30,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adiseshan1505&show_icons=true&theme=radical" alt="adiseshan1505's GitHub stats" />
 </p>
 
+## 🔥 Streak Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiseshan1505&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
 ## 🛠️ Top Skills
 
 - **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
