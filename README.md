@@ -1,6 +1,9 @@
 # Hi there, I'm Adiseshan! An aspiring AI-ML engineer with strong interest in full stack development (webs and mobiles)👋
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
+
+
 ## 👨‍💻Work Experience
 - Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May 2025-June 2025)
   * Worked on LLMs, finetuned them. Built OCR model from scratch for claims.
