@@ -13,19 +13,11 @@
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate developer and avid learner
-- 🧑‍💻 Python(LLMs, ML) and JS most used!!!
-- 🚀 Currently learning Flutter
-- 👍 Mastering Full Stack Dev
+- 🧑‍💻 AI/ML enthusiast, Web and Mobile App Developer.
+- 🚀 Mastering Full Stack Dev in JS and Mobile App Dev in FLutter
 - 🤖 Building with the latest in AI, LLMs(open source that run locally), and web tech
 
 ---
-
-## 🌟 Current Projects
-
--  🚀**Flutter App**  
-  Building a flutter cross platform app using firebase at the backend.
-- 🔗 **Multimodal RAG Application**  
-  Exploring the synergy of multiple data types and retrieval-augmented generation for smarter AI apps.
 
 ## 📊 GitHub Stats
 
