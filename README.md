@@ -3,8 +3,7 @@
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
 
-
-## 👨‍💻Work Experience
+## 👨‍💻 Work Experience
 - Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May 2025-June 2025)
   * Worked on LLMs, finetuned them. Built OCR model from scratch for claims.
   * Built a frontend UI for them using Next.js and TypeScript to manage lots of users and their clients as well.
@@ -14,8 +13,8 @@
 
 - 🧑‍💻 Passionate developer and avid learner
 - 🧑‍💻 AI/ML enthusiast, Web and Mobile App Developer.
-- 🚀 Mastering Full Stack Dev in JS and Mobile App Dev in FLutter
-- 🤖 Building with the latest in AI, LLMs(open source that run locally), and web tech
+- 🚀 Mastering Full Stack Dev in JS and Mobile App Dev in Flutter
+- 🤖 Building with the latest in AI, LLMs (open source that run locally), and web tech
 
 ---
 
@@ -30,6 +29,22 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=adiseshan1505&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
+
+## 📈 Contributions Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiseshan1505&theme=radical" alt="adiseshan1505's Contribution Graph" />
+</p>
+
+## 📊 Commit, PR & Issue Stats
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adiseshan1505&theme=radical" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiseshan1505&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=adiseshan1505&theme=radical" alt="Commits per day" />
+</p>
+
+---
 
 ## 🛠️ Top Skills
 
