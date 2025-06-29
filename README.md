@@ -1,20 +1,28 @@
-# Hi there, I'm Adiseshan! An aspiring AI-ML engineer with strong interest in full stack development (webs and mobiles)👋
+# Hi there, I'm Adiseshan! 👋
+
+An aspiring AI-ML engineer with a strong interest in full stack development (web and mobile).
+
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
----
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
 
+---
+
 ## 👨‍💻 Work Experience
-- Software Engineer Intern @ZingHR, Mumbai, Maharashtra (May 2025-June 2025)
-  * Worked on LLMs, finetuned them. Built OCR model from scratch for claims.
-  * Built a frontend UI for them using Next.js and TypeScript to manage lots of users and their clients as well.
+
+- **Software Engineer Intern @ ZingHR, Mumbai, Maharashtra (May 2025 - June 2025)**
+  - Worked on LLMs; finetuned them for production use.
+  - Built an OCR model from scratch for claims processing.
+  - Developed a frontend dashboard using Next.js and TypeScript to manage users and clients.
+
 ---
 
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate developer and avid learner
-- 🧑‍💻 AI/ML enthusiast, Web and Mobile App Developer.
-- 🚀 Mastering Full Stack Dev in JS and Mobile App Dev in Flutter
-- 🤖 Building with the latest in AI, LLMs (open source that run locally), and web tech
+- 🤖 AI/ML enthusiast, Web & Mobile App Developer
+- 🌐 Mastering Full Stack Dev (JS) and Mobile App Dev (Flutter)
+- 🛠️ Building with the latest in AI, LLMs (open source/local), and modern web technologies
 
 ---
 
@@ -52,6 +60,8 @@
 - **Next.js** | **TypeScript**
 - **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
 
+---
+
 ## 💻 Top Languages
 
 <p align="left">
@@ -62,6 +72,12 @@
 
 ## 📫 Let’s Connect!
 
-<a href="https://www.linkedin.com/in/adiseshanramanan/">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/adiseshanramanan/)
+
+---
+
+## 🏅 Achievements, Highlights & Organizations
+
+![image1](image1)
 
 ---
