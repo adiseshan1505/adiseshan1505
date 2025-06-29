@@ -49,9 +49,13 @@ An aspiring AI-ML engineer with a strong interest in full stack development (web
 
 ## 🛠️ Top Skills
 
-- **Python** | **FastAPI** | **Machine Learning** | **Large Language Models (LLMs)**
-- **Next.js** | **TypeScript**
-- **Finetuning LLMs** | **RAG (Retrieval-Augmented Generation)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
 
 ---
 
