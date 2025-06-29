@@ -44,13 +44,6 @@ An aspiring AI-ML engineer with a strong interest in full stack development (web
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiseshan1505&theme=radical" alt="adiseshan1505's Contribution Graph" />
 </p>
 
-## 📊 Commit, PR & Issue Stats
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adiseshan1505&theme=radical" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiseshan1505&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=adiseshan1505&theme=radical" alt="Commits per day" />
-</p>
 
 ---
 
@@ -76,8 +69,3 @@ An aspiring AI-ML engineer with a strong interest in full stack development (web
 
 ---
 
-## 🏅 Achievements, Highlights & Organizations
-
-![image1](image1)
-
----
