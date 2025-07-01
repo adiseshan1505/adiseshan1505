@@ -1,6 +1,8 @@
 # Hi there, I'm Adiseshan! 👋
 
-An aspiring AI-ML engineer with a strong interest in full stack development and mobile app development.
+An aspiring AI-ML engineer with a strong interest in Full-Stack Development, AI/ML and Mobile App Development.
+
+Portfolio coming soon....
 
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 
@@ -16,6 +18,10 @@ An aspiring AI-ML engineer with a strong interest in full stack development and 
   - Developed a frontend dashboard using Next.js and TypeScript to manage users and clients.
 
 ---
+
+## 💻 Working on
+- 🧑‍🏫 Working on an AI powered EdTech Test platform, for Indian competitve entrance exams.
+- Building my portfolio website as well!!!
 
 ## 🚀 About Me
 
