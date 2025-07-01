@@ -2,7 +2,6 @@
 
 An aspiring AI-ML engineer with a strong interest in Full-Stack Development, AI/ML and Mobile App Development.
 
-Portfolio coming soon....
 
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 
