@@ -1,6 +1,6 @@
 # Hi there, I'm Adiseshan! 👋
 
-An aspiring AI-ML engineer with a strong interest in full stack development (web and mobile).
+An aspiring AI-ML engineer with a strong interest in full stack development and mobile app development.
 
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 
