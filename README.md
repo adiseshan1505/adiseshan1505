@@ -18,20 +18,22 @@ An aspiring AI-ML engineer with a strong interest in Full-Stack Development, AI/
 
 ---
 
-## 💻 Working on
-- 🧑‍🏫 Working on a SaaS AI powered EdTech Test platform, for Indian competitve entrance exams.
-- Building my portfolio website as well!!!
-
----
-
 ## 🚀 About Me
 
-- 🧑‍💻 Passionate developer and avid learner
+- 🧑‍💻 Passionate developer, avid learner and an Open-Source Enthusiast
 - 🤖 AI/ML enthusiast, Web & Mobile App Developer
 - 🌐 Mastering Full Stack Dev (JS) and Mobile App Dev (Flutter)
 - 🛠️ Building with the latest in AI, LLMs (open source/local), and modern web technologies
 
 ---
+
+## 💻 Working on
+- 🧑‍🏫 Working on a SaaS AI powered EdTech Test platform, for Indian competitve entrance exams.
+- 🧑‍🏫 Building a SaaS based Mobile Application using Flutter.
+- Building my portfolio website as well!!!
+
+---
+
 
 ## 📊 GitHub Stats
 
