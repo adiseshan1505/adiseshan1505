@@ -19,7 +19,7 @@ An aspiring AI-ML engineer with a strong interest in Full-Stack Development, AI/
 ---
 
 ## 💻 Working on
-- 🧑‍🏫 Working on an AI powered EdTech Test platform, for Indian competitve entrance exams.
+- 🧑‍🏫 Working on a SaaS AI powered EdTech Test platform, for Indian competitve entrance exams.
 - Building my portfolio website as well!!!
 
 ---
