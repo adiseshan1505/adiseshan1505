@@ -19,8 +19,8 @@ My promises never reject 😏
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate developer, avid learner and an Open-Source Enthusiast
-- 🤖 AI/ML enthusiast, Web & Mobile App Developer
-- 🌐 Mastering Full Stack Dev (JS) and Mobile App Dev (Flutter)
+- 🤖 AI/ML enthusiast.
+- 😜 JS, Flutter and Go-Lang!!!
 - 🛠️ Building with the latest in AI, LLMs (open source/local), and modern web technologies
 
 ---
