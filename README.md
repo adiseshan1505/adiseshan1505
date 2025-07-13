@@ -1,8 +1,6 @@
 # Hi there, I'm Adiseshan! 👋
 
-An aspiring AI-ML engineer with a strong interest in Full-Stack Development, AI/ML and Mobile App Development.
-
-
+My promises never reject 😏
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
