@@ -25,14 +25,6 @@ My promises never reject 😏
 
 ---
 
-## 💻 Working on
-- 🧑‍🏫 Working on a SaaS AI powered EdTech Test platform, for Indian competitve entrance exams.
-- 🧑‍🏫 Building a SaaS based Mobile Application using Flutter.
-- Building my portfolio website as well!!!
-
----
-
-
 ## 📊 GitHub Stats
 
 <p align="left">
