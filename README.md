@@ -20,7 +20,7 @@ My promises never reject 😏
 
 - 🧑‍💻 Passionate Backend developer, avid learner and an Open-Source Enthusiast
 - 🤖 AI/ML enthusiast.
-- 🧑‍💻 Mastering JS and Flutter.
+- 🧑‍💻 Mastering JS, Flutter and Go-Lang.
 - 🛠️ Building with the latest in AI, LLMs (open source/local), and modern web technologies
 
 ---
