@@ -73,6 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adiseshan1505&show_icons=true&theme=radical" alt="adiseshan1505's GitHub stats" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshan1505&layout=compact&theme=radical" alt="adiseshan1505's Top Languages" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="left">
