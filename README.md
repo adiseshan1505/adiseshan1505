@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Backend+Dev;Mobile+App+Dev;Web-3+%F0%9F%9B%A0%EF%B8%8F" alt="Animated Header Typing SVG" />
 </p>
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
 
 ---
