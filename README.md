@@ -121,18 +121,3 @@
 [LinkedIn](https://www.linkedin.com/in/adiseshanramanan/)
 
 ---
-
-<!-- Animated Footer Waves -->
-<p align="center">
-  <img src="![image1](image1)" alt="Animated Wave SVG" />
-</p>
-
-<!-- Animated Footer Tech Design -->
-<p align="center">
-  <img src="![image2](image2)" alt="Animated Tech Design SVG" />
-</p>
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1500&color=F7971E&center=true&vCenter=true&width=400&lines=Thank+You+for+visiting!;Connect+and+collaborate+anytime+%F0%9F%92%BB;Happy+Coding+%F0%9F%92%A1" alt="Animated Footer Typing SVG" />
-</p>
