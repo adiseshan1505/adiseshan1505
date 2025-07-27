@@ -7,7 +7,7 @@
 * 👍 Connect with me on <a href="https://www.linkedin.com/in/adiseshanramanan/">LinkedIn</a> and <a href="https://x.com/adiseshan1505">Twitter(X)</a>
 ---
 
-## Programming Languages & Frameworks
+## 🧠Programming Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -40,15 +40,7 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-## 📈 Contributions Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiseshan1505&theme=radical" alt="adiseshan1505's Contribution Graph" />
-</p>
-
----
-
-<h3>Tools</h3>
+## 🧰Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -66,6 +58,14 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
+
+## 🔥 GitHub Contributions Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiseshan1505&theme=radical" alt="adiseshan1505's Contribution Graph" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -86,3 +86,5 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=adiseshan1505&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
+
+##📬 Reach Out to Me
