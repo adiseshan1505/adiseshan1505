@@ -77,6 +77,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiseshan1505&layout=compact&theme=radical" alt="adiseshan1505's Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiseshan1505&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="left">
