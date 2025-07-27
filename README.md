@@ -1,6 +1,13 @@
 # Hi there, I'm Adiseshan! 👋
 
-My promises never reject 😏
+<!-- Animated text that appears/disappears for "Passionate Developer" -->
+<p align="center">
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=360&lines=Passionate+Developer" alt="Passionate Developer Typing SVG" />
+  </span>
+</p>
+
+My promises never reject 😏  
 > “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
