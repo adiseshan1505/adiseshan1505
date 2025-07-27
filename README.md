@@ -19,7 +19,7 @@ My promises never reject 😏
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate Backend developer, avid learner and an Open-Source Enthusiast
-- 🚀Currently learning <pre>Web-3(Ethereum, Rust, Solidity, Solana)</pre>
+- 🚀 Currently learning: Web-3 (Ethereum, Rust, Solidity, Solana)
 - 🧑‍💻 Mastering JS, Flutter and Go-Lang.
 - 🛠️ Building with the latest in Tech Stack, AI, LLMs (open source/local), and modern web technologies
 
@@ -42,7 +42,6 @@ My promises never reject 😏
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiseshan1505&theme=radical" alt="adiseshan1505's Contribution Graph" />
 </p>
-
 
 ---
 
@@ -119,4 +118,3 @@ My promises never reject 😏
 [LinkedIn](https://www.linkedin.com/in/adiseshanramanan/)
 
 ---
-
