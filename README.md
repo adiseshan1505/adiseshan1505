@@ -1,6 +1,5 @@
 ## About Me
-* I am Adiseshan Ramanan.
-
+* ### 👋 Hi, I'm [Adiseshan Ramanan].
 ---
 
 ## Programming Languages & Frameworks
