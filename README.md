@@ -19,7 +19,7 @@ My promises never reject 😏
 ## 🚀 About Me
 
 - 🧑‍💻 Passionate Backend developer, avid learner and an Open-Source Enthusiast
-- 🚀Currently learning <pre><code>Web-3(Ethereum, Rust, Solidity, Solana)</code></pre>
+- 🚀Currently learning <pre>Web-3(Ethereum, Rust, Solidity, Solana)</pre>
 - 🧑‍💻 Mastering JS, Flutter and Go-Lang.
 - 🛠️ Building with the latest in Tech Stack, AI, LLMs (open source/local), and modern web technologies
 
