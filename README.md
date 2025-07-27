@@ -1,10 +1,11 @@
-# Hi there, I'm Adiseshan! 👋
-
-<!-- Animated text that appears/disappears for "Passionate Developer" -->
+<!-- Animated Header -->
 <p align="center">
-  <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=360&lines=Passionate+Developer" alt="Passionate Developer Typing SVG" />
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adiseshan!+%F0%9F%91%8B;Passionate+Developer;Open+Source+Enthusiast;Backend+Specialist+%F0%9F%9B%A0%EF%B8%8F" alt="Animated Header Typing SVG" />
+</p>
+
+<!-- Animated "Passionate Developer" under header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=360&lines=Passionate+Developer" alt="Passionate Developer Typing SVG" />
 </p>
 
 My promises never reject 😏  
@@ -125,3 +126,8 @@ My promises never reject 😏
 [LinkedIn](https://www.linkedin.com/in/adiseshanramanan/)
 
 ---
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1500&color=F7971E&center=true&vCenter=true&width=400&lines=Thank+You+for+visiting!;Connect+and+collaborate+anytime+%F0%9F%92%BB;Happy+Coding+%F0%9F%92%A1" alt="Animated Footer Typing SVG" />
+</p>
