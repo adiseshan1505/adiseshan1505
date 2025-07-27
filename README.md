@@ -81,10 +81,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adiseshan1505&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+---
 ## 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=adiseshan1505&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
-##📬 Reach Out to Me
+---
+
+## 📬 Reach out to Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/adiseshanramanan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/adiseshan1505">
+    <img src="https://img.shields.io/badge/Twitter(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter(X)" />
+  </a>
+</p>
