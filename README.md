@@ -1,5 +1,5 @@
 ## About Me
-* ### 👋 Hi, I'm [Adiseshan Ramanan].
+*👋 Hi, I'm [Adiseshan Ramanan]
 ---
 
 ## Programming Languages & Frameworks
