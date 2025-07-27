@@ -1,5 +1,9 @@
 ## About Me
-* 👋 Hi, I'm [Adiseshan Ramanan]
+* 👋 Hi, I am Adiseshan Ramanan.
+* 🛠 I love coding and building things that are impactful.
+* 😊 My promises never reject.
+* 🧑‍🏫 I am currently exploring Web-3(Rust, Solidity, Solana, Ethereum).
+*🚀 Areas of Interest:- Full Stack Dev, Backend Dev, Web-3, Mobile App Dev, Machine Learning.
 ---
 
 ## Programming Languages & Frameworks
