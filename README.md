@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Passionate Backend developer, avid learner and an Open-Source Enthusiast
+- 😁 Areas of Interest:- Backend Dev, Full Stack Dev, Web-3, Mobile App Dev, Machine Learning
 - 🚀 Currently learning: Web-3 (Ethereum, Rust, Solidity, Solana)
 - 🧑‍💻 Mastering JS, Flutter and Go-Lang.
 - 🛠️ Building with the latest in Tech Stack, AI, LLMs (open source/local), and modern web technologies
