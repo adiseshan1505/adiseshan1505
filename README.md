@@ -1,25 +1,10 @@
-<!-- Animated Header Waves -->
-<p align="center">
-  <img src="![image1](image1)" alt="Animated Wave SVG" />
-</p>
 
-<!-- Animated Header Tech Design -->
-<p align="center">
-  <img src="![image2](image2)" alt="Animated Tech Design SVG" />
-</p>
-
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adiseshan!+%F0%9F%91%8B;Passionate+Developer;Open+Source+Enthusiast;Backend+Specialist+%F0%9F%9B%A0%EF%B8%8F" alt="Animated Header Typing SVG" />
-</p>
-
+<h1>Hi, I am Adiseshan... I like to code!!!</h1>
+<h2>My promises never reject!!! :D</h2>
 <!-- Animated "Passionate Developer" under header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=360&lines=Passionate+Developer" alt="Passionate Developer Typing SVG" />
 </p>
-
-My promises never reject 😏  
-> “Crafting digital solutions by writing logical and robust code for smooth deployment in your servers.”
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiseshan1505)
 
@@ -27,7 +12,7 @@ My promises never reject 😏
 
 ## 👨‍💻 Work Experience
 
-- **Software Engineer Intern @ ZingHR, Mumbai, Maharashtra (May 2025 - June 2025)**
+- **Software Engineer Intern @ ZingHR, Mumbai, Maharashtra (May 2025 - June 2025)** -> <a href="https://drive.google.com/file/d/1gMEERrFsjaIKx_Gk7B404bL6rkiRUB--/view?usp=drive_link">Completion Letter</a>
   - Worked on LLMs; finetuned them for production use.
   - Built an OCR model from scratch for claims processing.
   - Developed a frontend dashboard using Next.js and TypeScript to manage users and clients.
