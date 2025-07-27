@@ -4,7 +4,7 @@
 * 😊 My promises never reject.
 * 🧑‍🏫 I am currently exploring Web-3(Rust, Solidity, Solana, Ethereum).
 * 🚀 Areas of Interest:- Full Stack Dev, Backend Dev, Web-3, Mobile App Dev, Machine Learning.
-* Connect with me on <a href="https://www.linkedin.com/in/adiseshanramanan/">LinkedIn</a> and <a href="https://x.com/adiseshan1505">Twitter(X)</a>
+* 👍 Connect with me on <a href="https://www.linkedin.com/in/adiseshanramanan/">LinkedIn</a> and <a href="https://x.com/adiseshan1505">Twitter(X)</a>
 ---
 
 ## Programming Languages & Frameworks
