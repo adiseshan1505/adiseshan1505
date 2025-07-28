@@ -73,14 +73,14 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiseshan1505&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=adiseshan1505&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=adiseshan1505&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adiseshan1505&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
