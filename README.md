@@ -2,7 +2,7 @@
 * 👋 Hi, I am Adiseshan Ramanan.
 * 🛠 I love coding and building things that are impactful.
 * 😊 <code>return new Promise((resolve)=>resolve("Always dependable!!! 🚀"));</code>
-* 🧑‍🏫 I am currently exploring Web-3(Rust, Solidity, Solana, Ethereum).
+* 🧑‍🏫 I am currently exploring Web-3(Rust, Solidity, Solana, Ethereum) and PyTorch.
 * 🚀 Areas of Interest:-  Backend Dev, Full Stack Dev, Web-3, Machine Learning.
 ---
 
