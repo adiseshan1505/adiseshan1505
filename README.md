@@ -2,7 +2,7 @@
 * 👋 Hi, I am Adiseshan Ramanan.
 * 🛠 I love coding and building things that are impactful.
 * 😊 <code>return new Promise((resolve)=>resolve("Always dependable!!! 🚀"));</code>
-* 🧑‍🏫 I am currently exploring Web-3 and PyTorch.
+* 🧑‍🏫 I am currently exploring PyTorch.
 * 🚀 Areas of Interest:-  Backend Dev, Web-3, Full Stack Dev,Machine Learning.
 ---
 
