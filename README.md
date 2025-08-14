@@ -1,9 +1,7 @@
 ## About Me
 * 👋 Hi, I am Adiseshan Ramanan.
 * 🛠 I love coding and building things that are impactful.
-* 😊 <code>return new Promise((resolve)=>resolve("Always dependable!!! 🚀"));</code>
-* 🧑‍🏫 I am currently exploring PyTorch and Flutter for Mobile App Dev.
-* 🚀 Areas of Interest:-  Backend Dev, Full Stack Dev, Mobile App Dev and Machine Learning.
+* !!! Juggling DSA, projects and Gate Prep right now!!!
 ---
 
 ## 🧠Programming Languages & Frameworks
