@@ -97,4 +97,8 @@
   <a href="https://codeforces.com/profile/adiseshan1505">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
+  <a href="https://www.codechef.com/users/adi1505">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  https://www.codechef.com/users/adi1505
 </p>
