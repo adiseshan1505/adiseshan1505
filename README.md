@@ -1,6 +1,7 @@
 ## About Me
 * 👋 Hi, I am Adiseshan Ramanan.
 * 🛠 I love coding and building things that are impactful.
+* 👁️ Competitve Programmer
 * !!! Juggling DSA, projects and Gate Prep right now!!!
 ---
 
