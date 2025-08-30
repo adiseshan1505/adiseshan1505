@@ -1,6 +1,6 @@
 ## About Me
 * 👋 Hi, I am Adiseshan Ramanan.
-* <code>hey</code>
+* <code>return new Promise((resolve, reject) => {console.log("dependable"); resolve("done")});</code>
 * 👁️ Competitve Programmer
 * !!! Juggling DSA, projects and Gate Prep right now!!!
 ---
