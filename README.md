@@ -5,7 +5,8 @@
           resolve("done")
   });</code>
 * 👁️ Competitve Programmer
-* !!! Juggling DSA, projects and Gate Prep right now!!!
+* 💻 I'm currently grinding on Golang, JS, and TS.
+* !!! Juggling DSA, Projects and Gate Prep as well!!!
 ---
 
 ## 🧠Programming Languages & Frameworks
