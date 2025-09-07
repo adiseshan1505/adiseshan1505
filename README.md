@@ -4,8 +4,8 @@
           console.log("dependable");
           resolve("done")
   });</code>
-* 👁️ Competitve Programmer
-* 💻 I'm currently grinding on Golang, JS, and TS.
+* My <a href="https://leetcode.com/adiseshan1505/"><code>Leetcode</code></a> , <a href="https://www.codechef.com/users/adiseshan1505"><code>CodeChef</code></a> and <a href="https://codeforces.com/profile/adiseshan1505"><code>Codeforces</code></a> 
+* 💻 Currently working on:- Building projects using Go (microservices), JS and TS Full Stack applications and Competitive Programming.
 * !!! Juggling DSA, Projects and Gate Prep as well!!!
 ---
 
