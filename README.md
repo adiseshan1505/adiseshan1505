@@ -1,9 +1,9 @@
 ## About Me
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhi-chat-gif-20883935&psig=AOvVaw3G9VN4WD07qkxNOpmifdi1&ust=1757941319426000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDl_vCn2I8DFQAAAAAdAAAAABAE" width="250" height="250" alt="Adiseshan Ramanan GIF" />
+  <img src="https://media.tenor.com/Ji_EAW5ZvdMAAAAM/hatsune-miku-hi.gif" width="250" height="250" alt="Adiseshan Ramanan GIF" />
 </p>
 
-<p align="center">
+<p>
   👋 Hi, I am <b>Adiseshan Ramanan</b> <br>
   <code>
     return new Promise((resolve, reject) =>{  
