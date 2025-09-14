@@ -5,12 +5,6 @@
 
 <p>
   👋 Hi, I am <b>Adiseshan Ramanan</b> <br>
-  <code>
-    return new Promise((resolve, reject) =>{  
-        console.log("dependable");  
-        resolve("done")  
-    });
-  </code>
   <br><br>
   🌐 My <a href="https://leetcode.com/adiseshan1505/"><code>Leetcode</code></a> , 
   <a href="https://www.codechef.com/users/adiseshan1505"><code>CodeChef</code></a> and 
