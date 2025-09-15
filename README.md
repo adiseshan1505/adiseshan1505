@@ -13,5 +13,6 @@
   💻 Interested in backend dev technologies. C++, Go-Lang, Python, Fast-API, AI/ML and PyTorch.  
   <br>
   💢 Currently learning system enginnering, design and PyTorch.
+  <br>
   🚀 Juggling DSA, Projects and Gate Prep as well!!!
 </p>
