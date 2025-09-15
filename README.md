@@ -10,7 +10,8 @@
   <a href="https://www.codechef.com/users/adiseshan1505"><code>CodeChef</code></a> and 
   <a href="https://codeforces.com/profile/adiseshan1505"><code>Codeforces</code></a> 
   <br>
-  💻 Interested in backend dev technologies. C++, Go-Lang, Rust, Python, Fast-API, AI/ML and PyTorch.  
+  💻 Interested in backend dev technologies. C++, Go-Lang, Python, Fast-API, AI/ML and PyTorch.  
   <br>
+  💢 Currently learning system enginnering, design and PyTorch.
   🚀 Juggling DSA, Projects and Gate Prep as well!!!
 </p>
