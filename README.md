@@ -10,9 +10,9 @@
   <a href="https://www.codechef.com/users/adiseshan1505"><code>CodeChef</code></a> and 
   <a href="https://codeforces.com/profile/adiseshan1505"><code>Codeforces</code></a> 
   <br>
-  💻 Interested in backend dev technologies. C++, Python.  
+  💻 Interested in backend dev technologies. C++, Go, Python.  
   <br>
-  💢 Obsessed with market trends, and quant finance. Hence, broadening my knowledge in quant, low latency, DSA and ML.
+  💢 Exploring Quantitative Finance, Market Trends, Backend Dev and AI/ML technologies.
   <br>
   🚀 Juggling DSA, Projects and Gate Prep as well!!!
 </p>
