@@ -14,5 +14,5 @@
   <br>
   💢 Exploring Quantitative Finance, Market Trends, Backend Dev and AI/ML technologies.
   <br>
-  🚀 Juggling DSA, Projects and Gate Prep as well!!!
+  🚀 Currently Working on Go-Lang projects.
 </p>
