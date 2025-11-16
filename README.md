@@ -14,5 +14,5 @@
   <br>
   💢 Exploring Quantitative Finance, Market Trends, Backend Dev and AI/ML technologies.
   <br>
-  🚀 Currently Working on Go-Lang projects.
+  🚀 Currently Working on Go-Lang projects, from scratch.
 </p>
