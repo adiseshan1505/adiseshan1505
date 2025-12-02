@@ -7,12 +7,8 @@
   👋 Hi, I am <b>Adiseshan Ramanan</b> <br>
   <br>
   🌐 My <a href="https://leetcode.com/adiseshan1505/"><code>Leetcode</code></a> , 
-  <a href="https://www.codechef.com/users/adiseshan1505"><code>CodeChef</code></a> and 
-  <a href="https://codeforces.com/profile/adiseshan1505"><code>Codeforces</code></a> 
   <br>
-  💻 Interested in backend dev technologies. C++, Go, Python.  
+  💻 Interested in backend dev technologies. C++, JS, Go, Python.  
   <br>
-  💢 Exploring Quantitative Finance, Market Trends, Backend Dev and AI/ML technologies.
-  <br>
-  🚀 Currently Working on Go-Lang projects, from scratch.
+  💢 Exploring Backend, databases and DevOps
 </p>
