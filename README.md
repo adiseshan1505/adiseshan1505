@@ -5,10 +5,8 @@
 
 <p>
   👋 Hi, I am <b>Adiseshan Ramanan</b> <br>
-  <br>
-  🌐 My <a href="https://leetcode.com/adiseshan1505/"><code>Leetcode</code></a> , 
-  <br>
-  💻 Interested in backend dev technologies. C++, JS, Go, Python.  
+  💻 Interested in backend dev technologies.JS, Go, Python.  
+  Passionate Backend Developer and Full stack Engineer.
   <br>
   💢 Exploring Backend, databases and DevOps
 </p>
