@@ -1,19 +1,13 @@
-<p align="center">
-  <img src="https://media.tenor.com/Ji_EAW5ZvdMAAAAM/hatsune-miku-hi.gif" width="220" height="220" alt="Hi GIF" />
-</p>
+## About Me
+Hi, I'm Adiseshan Ramanan 👋
 
-<h1 align="center">Hi 👋, I'm Adiseshan Ramanan</h1>
-
-<p align="center">
-  💻 Full Stack Engineer with a strong focus on <b>Backend Development</b> and <b>Databases</b><br>
-  🎯 Interested in building scalable systems & APIs
-</p>
+- 💻 Full Stack Developer.
+- 🔐 Strong interest in secure backend architecture and databases.
+- 🚀 Interested in building scalable, production-ready products.
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -28,4 +22,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
