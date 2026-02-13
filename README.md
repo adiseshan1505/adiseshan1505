@@ -1,8 +1,8 @@
 ## About Me
 Hi, I'm Adiseshan Ramanan 👋
 
-- 💻 Full Stack Developer.
-- 🔐 Strong interest in secure backend architecture and databases.
+- 💻 Full Stack Web and Mobile App Developer.
+- 🔐 Strong interest in Cyber Security, secure backend architecture and databases.
 - 🚀 Interested in building scalable, production-ready products.
 
 ---
